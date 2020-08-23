@@ -1,6 +1,6 @@
 
 ### Olá amigos! 👋
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/hugoxy/hugoxy/blob/master/Developer.gif">
 
 - ✨ Sou estudante da área de desenvolvimento, trabalhando atualmente no Suporte 😁 ✨
 
@@ -9,8 +9,4 @@
 - 📘 Estudando: C#, JavaSript, Xamarim ...
 - 💬 Sobre mim: Gosto de tecnologias, pensar em ideias empreendedoras e viajar ✈️ ...
 - 📫 xhugo@live,com ...
-
-
-<code><a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/200px-C_Sharp_logo.svg.png"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019" target="_blank"><img height="25" src="https://seeklogo.com/images/X/xamarin-logo-F85620A85D-seeklogo.com.png"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"></a></code>
+- 👔 Meu linkedin: https://www.linkedin.com/in/rocha-victor/ ...
