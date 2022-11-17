@@ -2,8 +2,7 @@
 ### Olá amigos! 👋
 <img align="right" src="https://github.com/hugoxy/hugoxy/blob/master/Developer.gif">
 
-- ✨ Sou estudante da área de desenvolvimento, trabalhando atualmente no Suporte😁✨
-
+- ✨ Desenvolvedor, e estudante da área de desenvolvimento 😁✨
 - 🚀 Buscando novos desafios ...
 - ⚡ Buscando colaborar com projetos desafiadores ...
 - 📘 Estudando: C#, Xamarin, JavaSript ...
